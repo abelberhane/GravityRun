@@ -1,0 +1,9 @@
+c:\users\abel\documents\visual studio 2017\Projects\gravityRun\gravityRun\bin\Debug\gravityRun.exe.config
+c:\users\abel\documents\visual studio 2017\Projects\gravityRun\gravityRun\bin\Debug\gravityRun.exe
+c:\users\abel\documents\visual studio 2017\Projects\gravityRun\gravityRun\bin\Debug\gravityRun.pdb
+c:\users\abel\documents\visual studio 2017\Projects\gravityRun\gravityRun\obj\Debug\gravityRun.csprojResolveAssemblyReference.cache
+c:\users\abel\documents\visual studio 2017\Projects\gravityRun\gravityRun\obj\Debug\gravityRun.Form1.resources
+c:\users\abel\documents\visual studio 2017\Projects\gravityRun\gravityRun\obj\Debug\gravityRun.Properties.Resources.resources
+c:\users\abel\documents\visual studio 2017\Projects\gravityRun\gravityRun\obj\Debug\gravityRun.csproj.GenerateResource.Cache
+c:\users\abel\documents\visual studio 2017\Projects\gravityRun\gravityRun\obj\Debug\gravityRun.exe
+c:\users\abel\documents\visual studio 2017\Projects\gravityRun\gravityRun\obj\Debug\gravityRun.pdb
